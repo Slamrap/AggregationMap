@@ -1,4 +1,6 @@
 # Aggregation Map
+This is a 2D aggregation map, based on taxi trips made in the city of Porto, Portugal. 
+
 ## Installation:
 ```
 Version: Python 3.5.2
