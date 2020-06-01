@@ -26,4 +26,4 @@ Choose the notebook you want to run:
 * `AggregationMap_2D.ipynb`
 
 ## Result:
-![2D_Aggregation_Map](https://github.com/Slamrap/AgregationMap/blob/master/Images/AggregationMap2D.png)
+![2D_Aggregation_Map](https://github.com/Slamrap/AggregationMap/blob/master/Images/AggregationMap2D.png)
