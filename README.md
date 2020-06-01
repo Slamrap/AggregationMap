@@ -1,11 +1,11 @@
-# Agregation Map
+# Aggregation Map
 ## Installation:
 ```
 Version: Python 3.5.2
 $ pip3 install -r requirements.txt
 ```
 
-## Example:
+## How to open notebook:
 ```
 $ jupyter notebook
 [I 18:29:36.998 NotebookApp] Serving notebooks from local directory: 
@@ -25,4 +25,5 @@ Choose the notebook you want to run:
 ```
 * `AggregationMap_2D.ipynb`
 
-
+## Result:
+![2D_Aggregation_Map](https://github.com/Slamrap/AgregationMap/blob/master/Images/AggregationMap2D.png)
